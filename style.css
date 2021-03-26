@@ -1,0 +1,107 @@
+body { 
+margin: 0px;
+background-color: lightblue;
+ }
+.banner{ 
+	background-image: url(https://cdn.pixabay.com/photo/2015/09/06/01/00/surfing-926822_1280.jpg);  
+	height: 27vh; 
+	padding-top: 137px;
+	display: block;
+	text-align: center;
+	background-size: cover;
+    background-position: center;
+}
+h1 { 
+letter-spacing: 10px;
+font-family: 'Pacifico', cursive;
+color: rgb(255, 87, 86);
+height: 30px;
+width: 885px;
+
+ }
+h2{
+	color: white;
+}
+h3 {
+	font-family: monospace;
+    height: 0px;
+}
+.btn-blue {
+ 	color: white;
+ 	text-decoration: none;
+ 	background-color: blue;
+ 	padding: 16px;
+ 	border-radius: 7px;
+ 	display: block;
+ 	width: 12%;
+ 	margin: 16px;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	font-family: Arial,sans-sherif;
+
+ }
+
+.photoban { 
+ 	width: 100px;
+ }
+
+ .logo {
+ 	height: 350px;
+ 	padding: 0px;
+ }
+
+.cards {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 16px;
+	text-align: center;
+    width: 88%;
+    border-radius: 7px;
+    padding: 0px;
+    margin: 49px;
+    height: 400px;
+}
+.footer { 
+	background-color: rgb(221, 244, 255);
+	color: #007382;
+	padding: 8px 0px; 
+	text-align: center; 
+	font-size: 16px;
+
+ }
+
+.card{ 
+background-color: white ;
+border-radius: 7px ;
+box-shadow: 1px 2px 3px #00bcd4; 
+}
+
+img {
+	height: 125px; 
+	padding: 30px;
+}
+.tittle {
+	text-align: center;
+}
+
+h4 {
+	height: 8px;
+	font-size: 26px;
+	color: white;
+}
+h5{
+	text-align: center;
+	font-size: 26px;
+	height: 
+}
+
+h6 { 
+	font-size: 23px;
+    margin: -11px;
+    color: lightblue;
+ }
+ p {
+ 	font-family: Arial, sans-sherif;
+ 	margin: 18px;
+ 	color: #545454;
+ }
